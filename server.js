@@ -1,4 +1,4 @@
- server.js - Servidor Backend Operativo para Mariano Melgar
+// server.js - Servidor Backend Operativo para Mariano Melgar
 const express = require('express');
 const webpush = require('web-push');
 const cors = require('cors');
